@@ -1,0 +1,18 @@
+Elleo:
+
+- make proj man plan
+- write GH Desc
+
+- cookies
+- footer links
+- content source
+- cms for portfolio
+- form submission e-mail workflow
+- text on carousel, content
+
+- refactor all CSS and divide html into components
+- Cool text css
+- van animation
+
+
+- Design in Figma and bring into project 
